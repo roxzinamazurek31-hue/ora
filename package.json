@@ -1,0 +1,13 @@
+{
+  "name": "lesoooo-site",
+  "version": "1.0.0",
+  "description": "Static gift site with Telegram integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true
+}
